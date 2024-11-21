@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//groupproject of 3 members
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
